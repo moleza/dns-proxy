@@ -1,0 +1,23 @@
+[
+  {
+    "records": [
+      {
+        "type": "A",
+        "address": "127.0.0.1",
+        "ttl": 300,
+        "name": "testing.mageddo.com"
+      }
+    ],
+    "domain": "testing.mageddo.com"
+  },
+  {
+    "records": [
+      {
+        "type": "A",
+        "address": "127.0.0.1",
+        "ttl": 1800
+      }
+    ],
+    "domain": "mole.co.za"
+  }
+]
